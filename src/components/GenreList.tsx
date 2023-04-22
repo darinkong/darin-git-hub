@@ -3,7 +3,6 @@ import {
   ListItem,
   Image,
   HStack,
-  Text,
   Spinner,
   Button,
 } from "@chakra-ui/react";
